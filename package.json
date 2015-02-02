@@ -9,8 +9,8 @@
   "dependencies": {
     "docpad": "~6.69.1",
     "docpad-plugin-coffeescript": "~2.4.0",
-    "docpad-plugin-jade": "~2.7.0",
     "docpad-plugin-livereload": "~2.6.0",
+    "docpad-plugin-jade": "~2.8.0",
     "docpad-plugin-marked": "~2.2.1",
     "docpad-plugin-nodesass": "~2.4.4"
   },
