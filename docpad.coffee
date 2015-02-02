@@ -1,5 +1,6 @@
 # DocPad Configuration File
 # http://docpad.org/docs/config
+# Menu's http://tympanus.net/Development/ResponsiveMultiLevelMenu/index4.html
 
 # Define the DocPad Configuration
 docpadConfig = {
