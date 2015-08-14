@@ -17,7 +17,7 @@ docpadConfig = {
         github: "//github.com/JesseBilsten"
         codepen: "//codepen.io/JesseBilsten"
         dribbble: "//dribbble.com/jessebilsten"
-        twitter: "//twitter.com/lostangel"
+        twitter: "//twitter.com/blitzten"
         facebook: "//www.facebook.com/bilsten"
         instagram: "//instagram.com/jbilsten"
 
